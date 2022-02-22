@@ -10,7 +10,7 @@
 <a href="www.leticiafelix.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="instagram.com/leticiafxs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-  📫 Email para contato: **leticiafs@hotmail.com.br**
+  📫 Email para contato: **contato@leticiafelix.com**
 </p>
 
 <h2 align="left">Linguagens e Ferramentas:</h2>
