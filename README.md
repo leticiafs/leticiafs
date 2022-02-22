@@ -1,8 +1,8 @@
 ![headergit](https://user-images.githubusercontent.com/53658438/155215106-10dbff82-0765-489c-8b2d-2080d7bb5d18.gif)
 
 <h2 align="left">Olá 👋, me chamo Leticia!</h2>
-<h3 align="left">Sou desenvolvedora Front-End 🧙‍♀️, jornalista📰, gosto de aprender coisas novas, amo tecnologia 👩‍💻 e também gosto de um bom livro 📚.</h3>
-<h4>- 🌱 Atualmente venho estudando e desenvolvendo alguns projetos com React, NextJs e Strapi. </h4>
+<p align="left">Sou desenvolvedora Front-End 🧙‍♀️, jornalista📰, gosto de aprender coisas novas, amo tecnologia 👩‍💻 e também gosto de um bom livro 📚.</p>
+<p>- 🌱 Atualmente venho estudando e desenvolvendo alguns projetos com React, NextJs e Strapi. </p>
 
 <h4 align="left">Entre em contato comigo!</h4>
 <p align="left">
