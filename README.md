@@ -18,7 +18,7 @@
 
 <h2 align="left">Git Stats:</h2>
 <div align="center">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=leticiafs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafs&layout=compact&langs_count=7&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leticiafs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ![footergit](https://user-images.githubusercontent.com/53658438/155216794-231b6fa0-436d-4de0-8e85-dfae6e1e5b79.gif)
